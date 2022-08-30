@@ -10,8 +10,8 @@ Welcome to CS 110. I look forward to working with you this semester. This is you
 
 ## Student Info - MUST BE COMPLETED
 
-Preferred Name:
+Preferred Name: Kevin Cao
 
-Discord username:
+Discord username: Dark_#4247
 
-REPL url:
+REPL url: https://replit.com/@KevinCao20/portfolio-kcao20

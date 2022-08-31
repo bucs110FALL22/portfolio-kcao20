@@ -15,4 +15,4 @@ rate = float(input("What is the current exchange rate from Euros to Dollars? "))
 amount = float(input("How much currency do you want to exchange? "))
 total = amount * rate
 result = total - 3
-print(f"{result:.2f}")
+print(f"You will have ${result:.2f} after deducting the processing fee.")

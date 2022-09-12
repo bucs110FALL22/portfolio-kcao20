@@ -14,4 +14,4 @@ Preferred Name: Kevin Cao
 
 Discord username: Dark_#4247
 
-REPL url: https://replit.com/@KevinCao20/portfolio-kcao20
+REPL url: https://replit.com/join/jcucjkliho-kevincao20

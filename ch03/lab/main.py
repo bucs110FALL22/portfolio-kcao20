@@ -39,7 +39,7 @@ pygame.init()
 screen = pygame.display.set_mode([500, 500])
 WHITE = [255, 255, 255]
 PURPLE = [255, 0, 255]
-for sides in [3, 6, 9, 360]:
+for sides in [3, 4, 6, 9, 360]:
     screen.fill(WHITE)
     coords = []
     num_sides = sides

@@ -23,12 +23,41 @@ Come up with interfaces fot 3 possible classes you think you may need. Again, br
 
 ## Class Interface 1
 
-< add your interface >
+```
+class Ball:
+    attributes:
+        x
+        y
+        direction
+        damage
+    methods:
+        bounce()
+        move_foward()
+```
 
 ## Class Interface 2
 
-< add your interface >
+```
+class Paddle:
+    attributes:
+        x
+        y
+        length
+    methods:
+        collectItem()
+        updatePosition()
+```
 
 ## Class Interface 3
 
-< add your interface >
+```
+class Brick:
+    attributes:
+        x
+        y
+        type
+        hp
+    methods:
+        dropItem()
+        takeDamage()
+```
